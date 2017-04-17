@@ -8,7 +8,7 @@
 ```
 
 ```javascript
-var input = 'A major change that has occur.........';
+var input = ' तर त्यसमा अनि नेपाल एकीकरणको ऐतिहासिक, भौगोलिक.........';
 var summary = get_summary(input);
 console.log(summary);
 ```
